@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://s6.uupload.ir/files/hassan-shamaizadeh-dava_gze7.jpg"/>
+  <img src="https://s6.uupload.ir/files/joke--meme_new-method_uxen.jpg"/>
 </p>
 
 ### Hello Alaikom 👋
