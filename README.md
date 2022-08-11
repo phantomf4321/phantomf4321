@@ -1,4 +1,7 @@
-  <img src="https://s6.uupload.ir/files/hassan-shamaizadeh-faryade-rang-back_vceg.jpg" width="100"/>
+img {
+  width: 1000px;
+}
+<img src="https://s6.uupload.ir/files/hassan-shamaizadeh-faryade-rang-back_vceg.jpg" width="100"/>
 
 ### Hello Alaikom 👋
 
