@@ -1,3 +1,4 @@
+### Hello Alaikom 👋
 
 
 
@@ -6,18 +7,17 @@
   <img src="https://s6.uupload.ir/files/joke--meme_new-method_uxen.jpg"/>
 </p>
 
-### Hello Alaikom 👋
-
 
 ## Research Research and Research
 I would like to share the experiences I get in ML.</br>
 Don't forget to listen to Shamaizadeh's voice while coding!</br>
 Copy-and-Paste was programmed by programmers for programmers actually.
 
-
 </br>
 </br>
-
+<p>
+<img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" alt="This will display an animated GIF" >
+</p>
 <p align="center">
 	
 <a target="_blank" href="https://github.com/yurijserrano/LANGUAGES-TOOLS-LOGOS/tree/master/ides">
@@ -31,7 +31,7 @@ Copy-and-Paste was programmed by programmers for programmers actually.
 </a>&nbsp;
 <a target="_blank" href="https://github.com/yurijserrano/LANGUAGES-TOOLS-LOGOS/tree/master/text%20editors">
 	<img src="https://img.shields.io/badge/PHP-purple?style=for-the-badge&color=5821d9" />
-	<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/php.png" width="30" />
+	<img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="30" />
 </a>&nbsp;
 
 
