@@ -14,7 +14,6 @@ Don't forget to listen to Shamaizadeh's voice while coding!</br>
 Copy-and-Paste was programmed by programmers for programmers actually.
 
 </br>
-</br>
 <p>
 <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" alt="This will display an animated GIF" >
 </p>
