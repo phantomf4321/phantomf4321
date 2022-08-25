@@ -2,7 +2,6 @@
 
 
 
-
 <p align="center">
   <img src="https://s6.uupload.ir/files/joke--meme_new-method_uxen.jpg"/>
 </p>
@@ -53,5 +52,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ..
 -->
