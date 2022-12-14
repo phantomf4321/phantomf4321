@@ -83,15 +83,24 @@ Copy-and-Paste was programmed by programmers for programmers actually.
 
 [![STATS (THOPHES)](https://github-profile-trophy.vercel.app/?username=phantomf4321&theme=dracula&margin-w=10&margin-h=15&column=8&row=1)](https://github.com/phantomf4321)
 
-  [![GitHub activity](https://activity-graph.herokuapp.com/graph?username=phantomf4321&theme=dracula)](https://github.com/phantomf4321)
-
+  [![Sajjad Ranjbar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=phantomf4321&theme=dracula)](https://github.com/phantomf4321)
 </p>
 
 ## Contact Me
 
-Feel free contacting me via the following links:
-
 <div align="center">
+        <a href="https://www.linkedin.com/in/sajjad-ranjbar-yazdi-/">
+            <img alt="Sajjad Ranjbar's LinkedIN" width="32px" src="https://img.icons8.com/fluency/344/linkedin.png" />
+        </a>
+        <a href="mailto:sajjadranjbarazdi@gmail.com">
+            <img alt="Farshid Nooshi's Email" width="32px" src="https://img.icons8.com/color/344/apple-mail.png" />
+        </a>
+        <a href="https://www.instagram.com/sajjadranjbaryazdi/">
+            <img alt="Sajjad Ranjbar's instagram account" src="https://img.icons8.com/fluency/50/000000/instagram-new.png" width=32/>
+        </a>
+        <a href="https://phantomf4321.github.io/">
+            <img alt="Sajjad Ranjbar's personal webpage" src="https://img.icons8.com/fluency/50/000000/resume-website.png" width=32/>
+        </a>
 </div>
 
 <p align=center>
