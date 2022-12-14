@@ -78,7 +78,7 @@ Copy-and-Paste was programmed by programmers for programmers actually.
         </td>
     </tr>
 </table>
-<!--
+
 <p align="center">
 
 [![STATS (THOPHES)](https://github-profile-trophy.vercel.app/?username=phantomf4321&theme=dracula&margin-w=10&margin-h=15&column=8&row=1)](https://github.com/phantomf4321)
@@ -86,7 +86,7 @@ Copy-and-Paste was programmed by programmers for programmers actually.
   [![GitHub activity](https://activity-graph.herokuapp.com/graph?username=phantomf4321&theme=dracula)](https://github.com/phantomf4321)
 
 </p>
--->
+
 ## Contact Me
 
 Feel free contacting me via the following links:
