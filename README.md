@@ -85,7 +85,7 @@ Copy-and-Paste was programmed by programmers for programmers actually.
 </p>
 
 ## Contact Me
-
+<!--
 <div align="center">
         <a href="https://www.linkedin.com/in/sajjad-ranjbar-yazdi-/">
             <img alt="Sajjad Ranjbar's LinkedIN" width="32px" src="https://img.icons8.com/fluency/344/linkedin.png" />
@@ -100,7 +100,7 @@ Copy-and-Paste was programmed by programmers for programmers actually.
             <img alt="Sajjad Ranjbar's personal webpage" src="https://img.icons8.com/fluency/50/000000/resume-website.png" width=32/>
         </a>
 </div>
-
+-->
 <p align=center>
 <br>
 <img src="https://visitor-badge.glitch.me/badge?page_id=phantomf4321/phantomf4321">
