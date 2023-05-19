@@ -101,11 +101,9 @@ Copy-and-Paste was programmed by programmers for programmers actually.
         </a>
 </div>
 -->
-<p align=center>
-<br>
-<img src="https://visitor-badge.glitch.me/badge?page_id=phantomf4321/phantomf4321">
 
-</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=phantomf4321&label=Profile%20views&color=0e75b6&style=flat" alt="phantomf4321" /> </p>  
+
 
 
 
