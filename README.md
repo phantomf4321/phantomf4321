@@ -64,7 +64,7 @@ Copy-and-Paste was programmed by programmers for programmers actually.
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" title="IntelliJ" alt="IntelliJ" width="40" height="40"/>&nbsp;
 </p>
 
-
+<!--
 ## My github account information is as follow:
 
 <table style="border:hidden;" border="0" cellspacing="0" cellpadding="0">
@@ -86,7 +86,7 @@ Copy-and-Paste was programmed by programmers for programmers actually.
 </p>
 
 ## Contact Me
-<!--
+
 <div align="center">
         <a href="https://www.linkedin.com/in/sajjad-ranjbar-yazdi-/">
             <img alt="Sajjad Ranjbar's LinkedIN" width="32px" src="https://img.icons8.com/fluency/344/linkedin.png" />
