@@ -11,8 +11,6 @@ Back-end Developer :D
 </p>
 
 
-## Research Research and Research
-
 </br>
 
 
