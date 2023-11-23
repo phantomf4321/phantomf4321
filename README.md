@@ -12,7 +12,6 @@ Back-end Developer :D
 
 
 ## Research Research and Research
-Copy-and-Paste was programmed by programmers for programmers actually.
 
 </br>
 
