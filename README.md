@@ -12,7 +12,6 @@ Back-end Developer :D
 
 
 ## Research Research and Research
-I would like to share the experiences I get in ML.</br>
 Don't forget to listen to Shamaizadeh's voice while coding!</br>
 Copy-and-Paste was programmed by programmers for programmers actually.
 
