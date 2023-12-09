@@ -1,5 +1,6 @@
-##  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90"/>
+</p>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+Alaikom!+👋;I'm+Sajjad+Ranjar;A+back-end+developer;Nice+to+meet+you!&center=true&size=30&color=fe428e">
@@ -9,6 +10,19 @@
 ### About me 
 
 Back-end Developer :D
+
+
+<p align="center">
+    <a href="https://t.me/Sar_voshia">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white alt="Telegram" /></a>&nbsp;
+    <a href="mailto:sajjadranjbaryazdi@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;
+    <a href="https://www.linkedin.com/in/sajjad-ranjbar-yazdi-52aaa91a8">      
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="Linkedin" /></a>&nbsp;
+    <br />
+    <br />
+    <h2 align="center">About me 😇</h2>
+</p>
 
 
 
@@ -100,19 +114,9 @@ Back-end Developer :D
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=phantomf4321&label=Profile%20views&color=0e75b6&style=flat" alt="phantomf4321" /> </p>  
 
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
+</p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
