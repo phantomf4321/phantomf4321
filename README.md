@@ -12,17 +12,6 @@
 Back-end Developer :D
 
 
-<p align="center">
-    <a href="https://t.me/Sar_voshia">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white alt="Telegram" /></a>&nbsp;
-    <a href="mailto:sajjadranjbaryazdi@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;
-    <a href="https://www.linkedin.com/in/sajjad-ranjbar-yazdi-52aaa91a8">      
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="Linkedin" /></a>&nbsp;
-    <br />
-    <br />
-    <h2 align="center">About me 😇</h2>
-</p>
 
 
 
@@ -73,57 +62,21 @@ Back-end Developer :D
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" title="IntelliJ" alt="IntelliJ" width="40" height="40"/>&nbsp;
 </p>
 
-<!--
-## My github account information is as follow:
-
-<table style="border:hidden;" border="0" cellspacing="0" cellpadding="0">
-    <tr>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=phantomf4321&theme=dracula&show_icons=true&count_private=true&hide_border=true"/>
-        </td>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phantomf4321&layout=compact&hide_border=true&theme=dracula&langs_count=9"/>
-        </td>
-    </tr>
-</table>
-
+### Contact Me
 <p align="center">
-
-[![STATS (THOPHES)](https://github-profile-trophy.vercel.app/?username=phantomf4321&theme=dracula&margin-w=10&margin-h=15&column=8&row=1)](https://github.com/phantomf4321)
-
-  [![Sajjad Ranjbar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=phantomf4321&theme=dracula)](https://github.com/phantomf4321)
+    <a href="https://t.me/Sar_voshia">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white alt="Telegram" /></a>&nbsp;
+    <a href="mailto:sajjadranjbaryazdi@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;
+    <a href="https://www.linkedin.com/in/sajjad-ranjbar-yazdi-52aaa91a8">      
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="Linkedin" /></a>&nbsp;
+    <br />
+    <br />
 </p>
 
-## Contact Me
-
-<div align="center">
-        <a href="https://www.linkedin.com/in/sajjad-ranjbar-yazdi-/">
-            <img alt="Sajjad Ranjbar's LinkedIN" width="32px" src="https://img.icons8.com/fluency/344/linkedin.png" />
-        </a>
-        <a href="mailto:sajjadranjbarazdi@gmail.com">
-            <img alt="Farshid Nooshi's Email" width="32px" src="https://img.icons8.com/color/344/apple-mail.png" />
-        </a>
-        <a href="https://www.instagram.com/sajjadranjbaryazdi/">
-            <img alt="Sajjad Ranjbar's instagram account" src="https://img.icons8.com/fluency/50/000000/instagram-new.png" width=32/>
-        </a>
-        <a href="https://phantomf4321.github.io/">
-            <img alt="Sajjad Ranjbar's personal webpage" src="https://img.icons8.com/fluency/50/000000/resume-website.png" width=32/>
-        </a>
-</div>
--->
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=phantomf4321&label=Profile%20views&color=0e75b6&style=flat" alt="phantomf4321" /> </p>  
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
 </p>
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ..
--->
