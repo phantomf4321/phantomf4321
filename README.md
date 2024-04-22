@@ -9,8 +9,7 @@
 
 ### About me 
 
-Back-end Developer :D
-
+Back-end Developer
 
 
 <p align="center">
