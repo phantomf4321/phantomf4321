@@ -71,7 +71,6 @@ Back-end Developer
     <br />
 </p>
 
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=phantomf4321&label=Profile%20views&color=0e75b6&style=flat" alt="phantomf4321" /> </p>  
 
 <p align="center">
