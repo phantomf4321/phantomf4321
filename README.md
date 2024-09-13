@@ -74,7 +74,8 @@ Back-end Developer
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
 </p>
 
-
+<!--
 ### Let's listen together 🎧
 
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user
+-->
