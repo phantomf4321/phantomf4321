@@ -8,7 +8,6 @@
 </h1>
 
 ### About me 
-Back-end Developer
 
 <p align="center">
   <img src="https://s6.uupload.ir/files/joke--meme_new-method_uxen.jpg"/>
