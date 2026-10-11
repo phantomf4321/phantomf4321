@@ -174,3 +174,8 @@ working with data, and exploring the intersection of software engineering and ma
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 </p>
 
+<!--
+### 🎧 Let's listen together
+
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user)
+-->
